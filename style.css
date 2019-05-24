@@ -16,11 +16,6 @@ img {
     height: auto;
 }
 
-button {
-   
-    
-}
-
 .main-wrapper {
     position: absolute;
     top: 50%;
@@ -32,6 +27,7 @@ button {
 
 .main-wrapper h1 {
     text-align: center;
+    margin-top: 80px;
 }
 
 .main-wrapper h2 {
